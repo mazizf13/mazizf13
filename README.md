@@ -1,12 +1,8 @@
-
-<!--
 <h1 align="center">Hi 👋, I'm Mukhamad Aziz Firmansyah</h1>
 <h3 align="center">In 2 years I will become a reliable software engineer</h3>
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazizf13&label=Profile%20views&color=0e75b6&style=flat" alt="mazizf13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazizf13" alt="mazizf13" /></a> </p>
 
 - 🔭 I’m a student at UPN "Veteran" Jawa Timur [Learn to be a software engineer](webnyaziz.com)
 
