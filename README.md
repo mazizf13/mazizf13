@@ -1,30 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mukhamad Aziz Firmansyah</h1>
-<h3 align="center">In 2 years I will become a reliable software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<h1 align="center">Hi 👋, I'm Aziz</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazizf13&label=Profile%20views&color=0e75b6&style=flat" alt="mazizf13" /> </p>
 
-- 🔭 I’m a student at UPN "Veteran" Jawa Timur
-
 - 🌱 I’m currently learning **JavaScript Environment**
-
-- 👯 I’m looking to collaborate in learning to become a software engineer [Learn to be a software engineer](webnyaziz.com)
-
-- 🤝 I’m looking for help to guide me to become a reliable software engineer [Learn to be a software engineer](webnyaziz.com)
-
-- 👨‍💻 All of my projects are available at [webnyaziz.com](webnyaziz.com)
-
-- 📝 I regularly write articles on [https://masazizz.blogspot.com/](https://masazizz.blogspot.com/)
-
-- 📫 How to reach me **mukhamadazizfirmansyah@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mazizf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazizf13" height="30" width="40" /></a>
 <a href="https://instagram.com/mazizf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazizf13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mukhamad aziz firmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mukhamad aziz firmansyah" height="30" width="40" /></a>
 <a href="https://discord.gg/azxx3727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="azxx3727" height="30" width="40" /></a>
 </p>
 
